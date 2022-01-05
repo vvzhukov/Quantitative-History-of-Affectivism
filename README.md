@@ -1,6 +1,6 @@
 # Quantitative-History-of-Affectivism
 
-./
+./  
 Files used to create visualisations and collect descriptive stats
 
 ./Data_collection
